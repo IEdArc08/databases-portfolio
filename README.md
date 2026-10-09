@@ -43,17 +43,16 @@
 > - If you want to take a class on git and even potentially get certified:
 >   https://education.github.com/experiences/foundations_certificate
 
-Author: <replace these pointy brackets with your full name>
+Author: Ian Edgar "QB" Arceo
+My partner is Arshia Ziaee and Abdul Hadi, [portfolio link](https://github.com/partner/iot-portfolio)
 
-My partner is <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
-
-In my team for the final project, I also had the following members:
+//In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
-- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
+- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)//
 
-Our team final project repository is [here](https://github.com/somewhere/final-iot-project)
+//Our team final project repository is [here](https://github.com/somewhere/final-iot-project)//
 
-My personal profile and expectations, you can find [here](Module01/README.md#task-personal-profile).
+//My personal profile and expectations, you can find [here](Module01/README.md#task-personal-profile).//
 
 ## Table of Contents
 
