@@ -1,5 +1,7 @@
 # Module 2
 
+NOTE: Most of this module is imported from my partner Hadi, as we worked on it together
+
 We are going to show here notes for Task 1, 2, 3, 4, and 5 to prove
 
 ## Task ...
