@@ -1,7 +1,7 @@
 # Personal Portfolio for the IoT/MCU class Hochschule Bielefeld (HSBI)
 
 Author: Ian Edgar "QB" Arceo
-My partner is Arshia Ziaee and Abdul Hadi, [portfolio link](https://github.com/partner/iot-portfolio)
+My partners are Arshia Ziaee and Abdul Hadi. Their portfolio links are provided below
 
 //In my team for the final project, I also had the following members:
 - Hadi Abdul, https://github.com/Xx3n0n/Portfolio---Database/blob/main/Module02/README.md
